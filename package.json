@@ -1,5 +1,5 @@
 {
-  "name": "veritone-languages",
+  "name": "test-only",
   "version": "1.0.0",
   "description": "Language tags helper using IETF-BCP47, ISO-3166, ISO-639, ISO-15924 and custom internal standards",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/veritone/veritone-languages.git"
+    "url": "git+https://github.com/KhuongVeritone/TestOnly.git"
   },
   "keywords": [
     "Languages",
@@ -24,9 +24,9 @@
   "author": "veritone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/veritone/veritone-languages/issues"
+    "url": "https://github.com/KhuongVeritone/TestOnly/issues"
   },
-  "homepage": "https://github.com/veritone/veritone-languages#readme",
+  "homepage": "https://github.com/KhuongVeritone/TestOnly#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.26.3",
